@@ -19,9 +19,12 @@ cd jetbrains/xscriptor-theme</code></pre>
 
 <h2>Step 2: Build the Plugin</h2>
 
-<h3>Linux (Arch / Ubuntu)</h3>
+<h3>Linux (X Linux / Arch / Ubuntu)</h3>
 
 <p>Install Java 21:</p>
+
+<h4>X Linux</h4>
+<pre><code>sudo xpm -S jdk21-openjdk</code></pre>
 
 <h4>Arch Linux</h4>
 <pre><code>sudo pacman -S jdk21-openjdk</code></pre>
